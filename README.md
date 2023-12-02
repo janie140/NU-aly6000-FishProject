@@ -17,7 +17,6 @@ Finally, we conclude that Bluegill log weight and tail length are positively cor
 
 ![image](https://github.com/janie140/aly6000-FishProject/assets/121474131/ab07530f-0232-422d-808e-529ec5405f61)
 
-
 <img width="299" alt="image" src="https://github.com/janie140/aly6000-FishProject/assets/121474131/975e3bfc-c030-4dc6-a27a-e2b1caf7dd2d">
 
 
